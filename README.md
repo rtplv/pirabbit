@@ -1,2 +1,4 @@
 # pirabbit
-Rabbit Consumer/Producer project boilerplate written on Python :snake:
+Rabbit Python service boilerplate :snake:
+
+This template allows you to quickly deploy a Python project to work with a RabbitMq
