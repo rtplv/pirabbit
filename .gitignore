@@ -1,0 +1,14 @@
+.idea
+venv
+
+.env
+dump.rdb
+
+__pycache__/
+*.py[cod]
+*.egg-info
+
+.idea
+.DS_Store
+
+logs/
