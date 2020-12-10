@@ -1,2 +1,2 @@
 # pirabbit
-Python Rabbit Consumer/Producer project boilerplate
+Rabbit Consumer/Producer project boilerplate written on Python :snake:
